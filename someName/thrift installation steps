@@ -1,0 +1,18 @@
+
+
+1.Download thrift from http://thrift.apache.org/download/ and extract
+2.sudo apt-get install libboost-dev libboost-test-dev libboost-program-options-dev libevent-dev automake libtool flex bison pkg-config g++ libssl-dev 
+3.install ruby and rails
+4.gem install rspec
+5.gem install mongrel
+6.from the thrift directory do ./configure
+7.make
+8.sudo make install 
+
+Possible errors
+
+rake aborted 
+all the following gems should be installed. The error msg will display the name of the missing gem.
+ruby-dev librspec-ruby rake rubygems libdaemons-ruby libgemplugin-ruby mongrel
+
+Also downlaod the python-dev for python related errors.
