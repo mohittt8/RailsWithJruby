@@ -1,3 +1,6 @@
 [submodule "RailsWithJruby"]
 	path = RailsWithJruby
 	url = https://github.com/mohittt8/RailsWithJruby.git
+[submodule "someName/RailsWithJruby"]
+	path = someName/RailsWithJruby
+	url = https://github.com/mohittt8/RailsWithJruby.git
